@@ -28,8 +28,8 @@ _Have another more specific idea? You may want to check out our vibrant collecti
     Navigate into your new site’s directory and start it up.
 
     ```shell
-    cd my-hello-world-starter/
-    gatsby develop
+    cd mivors-assessment/
+    npm start
     ```
 
 1.  **Open the source code and start editing!**
